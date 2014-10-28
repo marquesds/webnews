@@ -1,0 +1,6 @@
+.idea
+staticroot
+local_settings.py
+*.sqlite3
+__pycache__
+*.pyc
